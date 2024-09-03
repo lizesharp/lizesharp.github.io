@@ -12,11 +12,11 @@ output:
   postcards::trestles
 ---
  
-## Bio
+## Bio 📔
 
 Elizabeth Sharp studies cancer epidemiology and environmental exposures at the Johns Hopkins Bloomberg School of Public Health. Her research focuses on environmental justice and carcinogenic exposure across the United States. She additionally collaborates as a research assistant at the Center for a Livable Future, addressing health issues through systematic reviews for industrial farming and communities that live nearby these industries.
 
-## Education
+## Education 🎓
 
 **Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
 
@@ -26,8 +26,10 @@ MHS in Epidemiology | September 2023 - May 2025
 
 B.S. in Biology and Anthropology | September 2019 - May 2023
 
-## Experience
+## Experience 💻
 
 **Johns Hopkins Center for a Livable Future** | Graduate Research Assistant | June 2024 - Present
 
 **National Cancer Institute** | Special Research Volunteer | June 2024 - Present
+
+
